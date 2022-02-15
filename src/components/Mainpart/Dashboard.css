@@ -1,0 +1,37 @@
+button{
+    min-height: 2.6rem;
+    --tw-text-opacity: 1;
+    color: rgba(255,255,255,var(--tw-text-opacity));
+    letter-spacing: .025em;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: .875rem;
+    line-height: 1.25rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    --tw-bg-opacity: 1;
+    background-color: rgba(75,29,84,var(--tw-bg-opacity));
+    --tw-border-opacity: 1;
+    border-color: rgba(177,51,207,var(--tw-border-opacity));
+    border-width: 4px;
+    border-radius: 9999px;
+    overflow: hidden;
+    width: 100%;
+    margin: auto;
+
+}
+
+nav{
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    flex-grow: 1;
+}
+
+.menu{
+    padding-bottom: 1rem; 
+    padding-top: 1rem;
+    --tw-border-opacity: 1;
+    border-color: rgba(243,244,246,var(--tw-border-opacity));
+}
